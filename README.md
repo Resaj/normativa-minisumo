@@ -5,7 +5,15 @@ ESTA NORMATIVA SE ENCUENTRA EN CONSTRUCCION. EL TEXTO QUE FIGURA A CONTINUACIÓN
 Revisión 3 (2015): vigente desde OSHWDem 2015
 
 # Índice
-- .[Objetivo]()
+- [Objetivo](https://github.com/open-robosports/normativa-minisumo/blob/master/Objetivo)
+- [Definición](https://github.com/open-robosports/normativa-minisumo/blob/master/Definici%C3%B3n)
+- [Dohyo](https://github.com/open-robosports/normativa-minisumo/blob/master/Dohyo)
+- [Especificaciones de los robots](https://github.com/open-robosports/normativa-minisumo/blob/master/Especificaciones%20de%20los%20robots)
+- [Desarrollo de las partidas](https://github.com/open-robosports/normativa-minisumo/blob/master/Desarrollo%20de%20las%20partidas)
+- [Puntuaciones](https://github.com/open-robosports/normativa-minisumo/blob/master/Puntuaciones)
+- [Faltas](https://github.com/open-robosports/normativa-minisumo/blob/master/Faltas%20y%20penalizaciones)
+- [Jueces](https://github.com/open-robosports/normativa-minisumo/blob/master/Jueces)
+- [Miscelánea](https://github.com/open-robosports/normativa-minisumo/blob/master/Miscel%C3%A1nea)
 
 # Objetivo
 Dos robots compiten entre sí simulando los enfrentamientos humanos de sumo. No se permite a los robots la utilización de armas ni girar sobre sí mismos, y el único objetivo es empujar al robot oponente para sacarlo del Dohyo. El torneo se lleva a cabo mediante el sistema de eliminación simple al mejor de 3 rondas. (Valoramos la clasificación estilo suizo o una liguilla con cabezas de serie en caso de tener ya la clasificación anterior). El robot que primero consiga dos puntos pasará a la siguiente fase del torneo.
