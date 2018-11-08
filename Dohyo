@@ -1,0 +1,49 @@
+Sección 2: Requisitos del Dohyo
+- Artículo 2.- Interior del Dohyo
+El interior del Dohyo se define como la superficie de juego rodeada de una línea en el borde, que también forma parte de la superficie de juego. Cualquier lugar fuera de esta área se considera el exterior del Dohyo.
+- Artículo 3.- Especificaciones del Dohyo
+El Dohyo será de forma circular y de unas dimensiones adecuadas para cada clase de robot.
+Las líneas de inicio (shikiri-sen) constan de dos líneas paralelas pintadas en color marrón (o equivalente para la absorción de la luz IR) centradas en el Dohyo, con unas dimensiones y espacio de separación adaptadas a cada clase de robot. La distancia de separación entre las líneas se mide a sus bordes exteriores.
+La línea del borde se marca como un anillo circular blanco de un ancho apropiado para cada clase de robot, en el borde exterior de la superficie de juego. El área del Dohyo se extiende hasta el borde exterior de esta línea circular.
+<img src="https://raw.githubusercontent.com/brico-labs/Regulamentos/gh-pages/img/minisumo_dohyo.png" width="400" height="400">
+*Especificaciones del Dohyo
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Clase</th>
+      <th style="text-align: center">Altura</th>
+      <th style="text-align: center">Diámetro</th>
+      <th style="text-align: center">Material</th>
+      <th style="text-align: center">Grosor*</th>
+      <th style="text-align: center">Longitud*</th>
+      <th style="text-align: center">Separación*</th>
+      <th style="text-align: center">Ancho borde</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Mini</td>
+      <td style="text-align: center">19mm</td>
+      <td style="text-align: center">77 cm</td>
+      <td style="text-align: center">MDF</td>
+      <td style="text-align: center">2 cm</td>
+      <td style="text-align: center">10 cm</td>
+      <td style="text-align: center">10 cm</td>
+      <td style="text-align: center">2,5 cm</td>
+    </tr>
+  </tbody>
+</table>
+<tr>
+      <th style="text-align: left">Clase</th>
+      <th style="text-align: center">Altura</th>
+      <th style="text-align: center">Diámetro</th>
+      <th style="text-align: center">Material</th>
+      <th style="text-align: center">Grosor*</th>
+      <th style="text-align: center">Longitud*</th>
+      <th style="text-align: center">Separación*</th>
+      <th style="text-align: center">Ancho borde</th>
+    </tr>
+* Líneas de inicio (shikiri-sen) Estas medidas puoden variar un 5%
+
+- Artículo 4.- Exterior del Dohyo
+Debe haber un espacio, adecuado a cada clase de robot, fuera del borde exterior del Dohyo. Este espacio puede ser de cualquier color, material o forma. Este área, con el Dohyo en el medio, se va a llamar el “área del Dohyo”. Cualquier marca o parte de la plataforma del Dohyo fuera de las dimensiones mínimas también serán considerados en el área del Dohyo.
