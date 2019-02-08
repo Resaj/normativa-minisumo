@@ -9,7 +9,6 @@ La categoría de minisumo consiste en una prueba de lucha en la que dos robots i
  - [Dohyo](dohyo.md)
  - [Combates y puntuación](puntuacion.md)
 
-
 # Atribuciones
 
 Esta normativa se basa en la normativa de la [OSHWDem](https://oshwdem.org/) y en elementos de otras competiciones compatibles como [RobotChallenge](http://www.robotchallenge.org.cn/), [RoboGames](http://robogames.net) y la [LNRC](http://lnrc.es/).
@@ -19,6 +18,7 @@ Esta normativa se basa en la normativa de la [OSHWDem](https://oshwdem.org/) y e
  - [BricoLabs](https://github.com/BRICO-LABS)
  - [AlejandraSaku](https://github.com/AlejandraSaku)
  - [JavierIH](https://github.com/JavierIH)
+ - [Resaj](https://github.com/Resaj)
 
 # Recursos de interés
 
