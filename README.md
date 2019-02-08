@@ -1,5 +1,5 @@
 # Normativa para minisumo
-La categoría de velocistas consiste en una prueba de lucha en la que dos robots intentan empujar al contrario para echarlo del dohyo.
+La categoría de minisumo consiste en una prueba de lucha en la que dos robots intentan empujar al contrario para echarlo del dohyo.
 
 <p align="center"><img src="images/competicion.png" height="400px" align = "center"></p>
 
