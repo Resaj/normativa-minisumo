@@ -52,6 +52,10 @@ La fase de las finales consta de varias rondas eliminatorias. El robot que gane 
 
 En la primera fase eliminatoria, los cruces se realizarán de tal manera que el primer clasificado de cada grupo se enfrentará en un combate contra el segundo del grupo adyacente. El número de rondas se determinará en función del número de robots clasificados, que a su vez vendrá determinado por el número de grupos.
 
+A continuación se muestra un ejemplo de posible tabla de cruces para una competición en modalidad de torneo con 14 robots:
+
+<p align="center"><img src="images/Ejemplo torneo.png" height="800px" align = "center"></p>
+
 ### Modalidad de torneo aleatorio con repesca
 Se trata de una modalidad de fases eliminatorias directas, pero con repesca por una segunda vía para poder acceder a las finales. Los cruces iniciales se realizan en función del ranking de ORS o, en su defecto, por sorteo. De esta manera se evita que algún robot que pueda ser merecedero de llegar al podio pueda quedar eliminado en los primeros combates.
 
@@ -59,6 +63,6 @@ En cualquier caso, para eliminar a un robot, éste tendrá que perder al menos d
 
 Este sistema se asemeja a la fase de finales de la modalidad de torneo, pero con una segunda rama de repesca.
 
-A continuación se muestra un ejemplo de posible tabla de cruces para una competición con 7 robots:
+A continuación se muestra un ejemplo de posible tabla de cruces para una competición en la modalidad de torneo aleatorio con repesca con 7 robots:
 
 <p align="center"><img src="images/Ejemplo torneo con repesca.png" height="800px" align = "center"></p>
