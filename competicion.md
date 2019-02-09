@@ -61,4 +61,4 @@ Este sistema se asemeja a la fase de finales de la modalidad de torneo, pero con
 
 A continuación se muestra un ejemplo de posible tabla de cruces para una competición con 7 robots:
 
-<p align="center"><img src="images/Ejemplo torneo con repesca.png" height="1200px" align = "center"></p>
+<p align="center"><img src="images/Ejemplo torneo con repesca.png" height="800px" align = "center"></p>
