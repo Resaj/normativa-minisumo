@@ -40,13 +40,15 @@ En esta modalidad se realizan combates entre cada pareja de robots, de tal maner
 Los robots ganan 2 puntos en la clasificación por cada combate ganado y 1 punto por cada combate empatado. Los puntos ganados en cada combate son independientes de los asaltos ganados.
 
 ### Modalidad de torneo
+En la modalidad de torneo se realizan varios grupos de robots, los cuales se enfrentarán en una liga interna para determinar qué dos 2 robots se clasifican de cada grupo para las finales.
 
+El número de grupos será una potencia de dos (2, 4, 8...) y el reparto de robots se hará en función de la clasificación del ranking de ORS o, en su defecto, por sorteo. Es posible que alguno de los grupos no quede totalmente lleno, por lo que los robots de ese grupo tendrían menos combates, pero igualmente pasarían dos a las finales.
 
+La fase de las finales consta de varias rondas eliminatorias. El robot que gane una ronda pasará a la siguiente. Se realizará una final por el tercer puesto entre los robots eliminados en semifinales; y una final por el primer puesto entre los robots que consigan ganar todas las rondas previas.
+
+En la primera fase eliminatoria, los cruces se realizarán de tal manera que el primer clasificado de cada grupo se enfrentará al segundo del grupo adyacente. El número de rondas se determinará en función del número de robots clasificados, así como el número de grupos.
 
 ### Modalidad de torneo aleatorio con repesca
-
-
-
 
 
 
