@@ -9,7 +9,7 @@ En cada uno de los asaltos de un mismo combate se irán alternando las orientaci
  - De lado
  - De espaldas
 
-El participante que más puntos tenga tras los 3 asaltos o el primero que gane dos puntos será el ganador del combate. En cada asalto se otorga un punto al ganador del mismo. En caso de empate, podrá establecerse una nueva ronda (ronda extendida) de desempate para determinar el ganador.
+El participante que más asaltos haya ganado al terminar el combate o el primero que gane dos asaltos será el ganador del combate. En caso de empate y en función de la modalidad de competición, podrán establecerse nuevos asaltos de desempate para determinar el ganador, en cuyo caso se reiniciará el orden de posiciones de salida y ganará el combate el primer robot en ganar un asalto.
 
 ## Desarrollo de los asaltos
 Tras las instrucciones de los jueces, los dos participantes se acercarán al dohyo y pondrán cada robot en su mitad del dohyo, detrás de sus respectivas líneas de inicio. El robot o cualquier parte de éste no puede ser colocado más allá de la línea de inicio hacia su oponente. No se requiere poner el robot directamente detrás de dicha línea de inicio y podrá colocarse en cualquier zona, siempre que respete una línea imaginaria respecto de la línea de inicio. Cuando el juez anuncie el comienzo de la ronda los participantes activarán sus robots, que comenzarán a moverse después de **5** segundos de espera. Durante estos cinco segundos los participantes deberán abandonar el área del dohyo.
@@ -35,10 +35,9 @@ Cuando se requiera la decisión de los jueces para determinar el ganador de una 
 Se contemplan 3 modalidades de competición, a elección de la organización de la prueba y en función del tiempo y de los medios de los que dispongan para su realización. La modalidad elegida se comunicará a los participantes antes de la competición.
 
 ### Modalidad de liga
-En esta modalidad se realizan combates entre cada pareja de robots, de tal manera que al final cada robot ha terminado enfrentándose a todos los posibles oponentes. Se hará una tabla
+En esta modalidad se realizan combates entre cada pareja de robots, de tal manera que cada robot termina enfrentándose a todos los oponentes. Se hará una tabla clasificatoria en la que se recojan los puntos obtenidos por cada robot y determine la clasificación final.
 
-Los robots ganan un punto de victoria por cada combate ganado, que es independiente de los puntos que haya conseguido por los asaltos ganados en el combate.
-
+Los robots ganan 2 puntos en la clasificación por cada combate ganado y 1 punto por cada combate empatado. Los puntos ganados en cada combate son independientes de los asaltos ganados.
 
 ### Modalidad de torneo
 
