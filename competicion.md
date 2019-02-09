@@ -39,6 +39,8 @@ En esta modalidad se realizan combates entre cada pareja de robots, de tal maner
 
 Los robots ganan 2 puntos en la clasificación por cada combate ganado y 1 punto por cada combate empatado. Los puntos ganados en cada combate son independientes de los asaltos ganados.
 
+En caso de empate entre 2 o más robots en la clasificación final, se determinarán los puestos en función del número de asaltos ganados en los combates realizados entre los robots empatados. En caso de no poder determinarse, ya sea porque también hayan quedado empate a asaltos ganados en su combate o porque sea irresoluble al ser un empate entre varios robots, se podrán realizar nuevos combates entre los implicados, sin que se vean afectados el resto de puestos de la clasificación.
+
 ### Modalidad de torneo
 En la modalidad de torneo se realizan varios grupos de robots, los cuales se enfrentarán en una liga interna para determinar qué dos 2 robots se clasifican de cada grupo para las finales.
 
