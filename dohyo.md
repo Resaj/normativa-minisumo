@@ -3,19 +3,19 @@
 El interior del dohyo se define como la superficie de juego rodeada de una línea en el borde. Cualquier lugar fuera de esta área se considera el exterior del dohyo.
 
 ## Especificaciones del dohyo
-El dohyo será negro, tendrá un borde blanco y su forma será circular. Presentará las siguientes dimensiones:
-
-|              | MIN | TIP | MAX |
-|:------------:|:---:|:---:|:---:|
-| Altura (cm)  | -   | 2   | -   |
-| Diámetro (cm)| -   | 77  | -   |
-| Borde (cm)   | -   | 2,5 | -   |
+El dohyo será negro, tendrá un borde blanco y su forma será circular, siendo su diámetro exterior de 77cm y su grosor (altura de la superficie de competición respecto del suelo) de al menos 2cm.
 
 Las marcas de inicio (shikiri-sen) son dos líneas paralelas pintadas en color marrón (o equivalente para la absorción de la luz IR) centradas en el dohyo, con una anchura de 2cm y una separación de 20cm, donde la separación entre las líneas se mide entre sus bordes exteriores y constituirá la distancia de salida entre los robots.
 
 La línea del borde se marca como un anillo circular blanco de 2,5cm de ancho. El área del dohyo se extiende hasta el borde exterior de esta línea circular.
 
-Todas las medidas mencionadas para el dohyo tendrán una tolerancia del 5%.
+Las medidas mencionadas para el dohyo tendrán una tolerancia del 5%. Se resumen en la siguiente tabla:
+
+|              | MIN | TIP | MAX |
+|:------------:|:---:|:---:|:---:|
+| Altura (cm)  | 1,9 | 2   | -   |
+| Diámetro (cm)| 73  | 77  | 81  |
+| Borde (cm)   | 2,4 | 2,5 | 2,6 |
 
 Antes de la competición se reservará un tiempo para que los participantes puedan calibrar los sensores de sus robots en estático sobre el tatami de competición.
 
