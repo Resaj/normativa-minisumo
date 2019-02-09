@@ -39,16 +39,18 @@ En esta modalidad se realizan combates entre cada pareja de robots, de tal maner
 
 Los robots ganan 2 puntos en la clasificación por cada combate ganado y 1 punto por cada combate empatado. Los puntos ganados en cada combate son independientes de los asaltos ganados.
 
-En caso de empate entre 2 o más robots en la clasificación final, se determinarán los puestos en función del número de asaltos ganados en los combates realizados entre los robots empatados. En caso de no poder determinarse, ya sea porque también hayan quedado empate a asaltos ganados en su combate o porque sea irresoluble al ser un empate entre varios robots, se podrán realizar nuevos combates entre los implicados, sin que se vean afectados el resto de puestos de la clasificación.
+En caso de empate entre 2 o más robots en los 3 primeros puestos de la clasificación final, se determinarán los puestos en función del número de asaltos ganados en los combates realizados entre los robots empatados. En caso de no poder determinarse, ya sea porque también hayan quedado empate a asaltos ganados en su combate o porque sea irresoluble al ser un empate entre varios robots, se podrán realizar nuevos combates entre los implicados, sin que se vean afectados el resto de puestos de la clasificación.
 
 ### Modalidad de torneo
-En la modalidad de torneo se realizan varios grupos de robots, los cuales se enfrentarán en una liga interna para determinar qué dos 2 robots se clasifican de cada grupo para las finales.
+En la modalidad de torneo se realizan varios grupos de robots, los cuales se enfrentarán en ligas internas para determinar qué dos 2 robots se clasifican de cada grupo para las finales.
 
-El número de grupos será una potencia de dos (2, 4, 8...) y el reparto de robots se hará en función de la clasificación del ranking de ORS o, en su defecto, por sorteo. Es posible que alguno de los grupos no quede totalmente lleno, por lo que los robots de ese grupo tendrían menos combates, pero igualmente pasarían dos a las finales.
+El número de grupos será una potencia de dos (2, 4, 8...) y el reparto de robots se hará equitativamente y en función de la clasificación del ranking de ORS o, en su defecto, por sorteo. Es posible que alguno de los grupos no quede lleno, por lo que los robots de ese grupo tendrían menos combates, pero igualmente se clasificarían 2 para las finales.
 
-La fase de las finales consta de varias rondas eliminatorias. El robot que gane una ronda pasará a la siguiente. Se realizará una final por el tercer puesto entre los robots eliminados en semifinales; y una final por el primer puesto entre los robots que consigan ganar todas las rondas previas.
+La fase de grupos seguirá el mismo procedimiento que el descrito para la modalidad de liga, teniendo que resolver los empates que existan en los dos primeros puestos de las respectivas clasificaciones.
 
-En la primera fase eliminatoria, los cruces se realizarán de tal manera que el primer clasificado de cada grupo se enfrentará al segundo del grupo adyacente. El número de rondas se determinará en función del número de robots clasificados, así como el número de grupos.
+La fase de las finales consta de varias rondas eliminatorias. El robot que gane un combate pasará a la siguiente ronda. Se realizará una final por el tercer puesto entre los robots eliminados en semifinales; y una final por el primer puesto entre los robots que consigan ganar todos los combates previos.
+
+En la primera fase eliminatoria, los cruces se realizarán de tal manera que el primer clasificado de cada grupo se enfrentará en un combate contra el segundo del grupo adyacente. El número de rondas se determinará en función del número de robots clasificados, que a su vez vendrá determinado por el número de grupos.
 
 ### Modalidad de torneo aleatorio con repesca
 
