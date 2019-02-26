@@ -7,7 +7,7 @@ La categoría de minisumo consiste en una prueba de lucha en la que dos robots i
 
  - [Robots y homologación](robots.md)
  - [Dohyo](dohyo.md)
- - [Combates y puntuación](puntuacion.md)
+ - [Competición y puntuación](competicion.md)
 
 # Atribuciones
 
