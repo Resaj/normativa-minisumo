@@ -22,7 +22,7 @@ Esta normativa se basa en la normativa de la [OSHWDem](https://oshwdem.org/) y e
 
 # Recursos de interés
 
-
+- [Lista de robots minisumo Open Source](https://open-robosports.github.io/kits/minisumo/)
 
 # Licencia
 
