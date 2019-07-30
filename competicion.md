@@ -9,7 +9,7 @@ En cada uno de los asaltos de un mismo combate se irán alternando las orientaci
  - De lado
  - De espaldas
 
-El participante que gane dos asaltos será el ganador del combate. En caso de empate y en función de la modalidad de competición, podrán establecerse nuevos asaltos de desempate para determinar el ganador, en cuyo caso se reiniciará el orden de posiciones de salida y ganará el combate el primer robot en ganar un asalto.
+El participante que gane dos asaltos será el ganador del combate. En caso de empate y en función de la modalidad de competición, podrán establecerse nuevos asaltos de desempate para determinar el ganador.
 
 ## Desarrollo de los asaltos
 Tras las instrucciones de los jueces, los dos participantes se acercarán al dohyo y pondrán cada robot en su mitad del dohyo, detrás de sus respectivas líneas de inicio. El robot o cualquier parte de éste no puede ser colocado más allá de la línea de inicio hacia su oponente. No se requiere poner el robot directamente detrás de dicha línea de inicio y podrá colocarse en cualquier zona, siempre que respete una línea imaginaria respecto de la línea de inicio. Cuando el juez anuncie el comienzo de la ronda los participantes activarán sus robots, que comenzarán a moverse después de **5 segundos de espera**. Durante estos cinco segundos los participantes deberán abandonar el área del dohyo.
@@ -44,7 +44,7 @@ Puntuación final del combate:
 * Para ganar los **2 puntos** correspondientes a la victoria del combate hay que ganar **2 de los 3 asaltos**. Si solamente se gana **1 asalto** y se empatan **2 asaltos** por inactividad, no se ganan puntos.
 * Para ganar **1 punto** cada robot en caso de empate en el combate debe haber al menos **2 asaltos** con actividad de alguno de los robots
 
-En caso de empate entre 2 o más robots en los 3 primeros puestos de la clasificación final, se determinarán los puestos en función del número de asaltos ganados en los combates realizados entre los robots empatados. En caso de no poder determinarse, ya sea porque también hayan quedado empate a asaltos ganados en su combate o porque sea irresoluble al ser un empate entre varios robots, se podrán realizar nuevos combates entre los implicados, sin que se vean afectados el resto de puestos de la clasificación.
+En caso de empate entre 2 o más robots en los 3 primeros puestos de la clasificación final, se determinarán los puestos en función del número de asaltos ganados en los combates realizados entre los robots empatados. En caso de no poder determinarse, ya sea porque también hayan quedado empate a asaltos ganados en su combate o porque sea irresoluble al ser un empate entre varios robots, se podrán repetir los combates entre los implicados, sin que se vean afectados los demás puestos de la clasificación.
 
 ### Modalidad de torneo
 En la modalidad de torneo se realizan varios grupos de robots, los cuales se enfrentarán en ligas internas para determinar qué **2 robots** se clasifican de cada grupo para las finales.
@@ -57,7 +57,7 @@ La fase de las finales consta de varias rondas eliminatorias. El robot que gane 
 
 En la primera fase eliminatoria, los cruces se realizarán de tal manera que el primer clasificado de cada grupo se enfrentará en un combate contra el segundo del grupo adyacente. El número de rondas se determinará en función del número de robots clasificados, que a su vez vendrá determinado por el número de grupos.
 
-Para ganar un combate y pasar a la siguiente ronda se tienen que ganar **2 asaltos**. Si un asalto queda empate tiene que repetirse inmediatamente. Nunca se repetirá un asalto resuelto, por ejemplo: si uno de los dos robots ya ha ganado saliendo de frente, ese asalto se da por concluido y no volverá a repetirse el inicio con los robots saliendo de frente.
+Para ganar un combate y pasar a la siguiente ronda se tienen que ganar **2 asaltos**. Si un combate resulta en empate, se repetirán los asaltos empatados para resolverlo inmediatamente. Nunca se repetirá un asalto resuelto, por ejemplo: si uno de los dos robots ya ha ganado saliendo de frente, ese asalto se da por concluido y no volverá a repetirse el inicio con los robots saliendo de frente.
 
 A continuación se muestra un ejemplo de posible tabla de cruces para una competición en modalidad de torneo con 14 robots:
 
