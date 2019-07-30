@@ -15,7 +15,7 @@ Un robot puede expandirse en tamaño una vez da comienzo el asalto, pero no pued
 
 Se permite el uso de elementos afilados en el cuerpo del robot siempre y cuando no tengan la capacidad de dañar al robot contrario, el dohyo ni sus inmediaciones. Se requerirá además que los robots tengan sistemas de seguridad (como detención de forma remota) a aquellos robots que constituyan un peligro por su construcción o funcionamiento. Es decir, si un robot es muy rápido y además posee una cuchilla afilada para usarse como cuña, debe poder detenerse de forma segura.
 
-Si un robot, por su construcción o programación, dañase al robot contrario, al dohyo o a sus inmediaciones; será descalificado de la competición.
+Si un robot, por su construcción o programación, dañase al robot contrario, al dohyo o a sus inmediaciones, será descalificado de la competición.
 
 No está permitida la utilización de fluidos durante los asaltos, tales como gases para despistar al oponente o líquidos para quitarle tracción, lo cual supondría una descalificación.
 
