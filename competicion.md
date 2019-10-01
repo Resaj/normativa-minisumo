@@ -17,15 +17,24 @@ Tras las instrucciones de los jueces, los dos participantes se acercarán al doh
 Los asaltos finalizan por indicación de los jueces. Entonces, los participantes podrán recuperar sus robots en el área del dohyo. Entre cada asalto habrá un tiempo aproximado de **30 segundos** en el que los participantes podrán realizar tareas de mantenimiento sobre sus robots tales como limpiar las ruedas o cambiar baterías.
 
 Se considera que un robot ha ganado el asalto cuando:
- - Fuerza al robot contrincante a tocar el área fuera del dohyo, incluyendo el borde lateral del mismo.
- - El robot contrincante, por sí mismo, toca el área fuera del dohyo, incluyendo el borde lateral del mismo.
- - El robot contrincante reincida en no respetar el intervalo de **5 segundos** de espera al ponerse en funcionamiento, previo aviso de penalización por parte de los jueces.
+ - fuerza al robot contrincante a tocar el área fuera del dohyo, incluyendo el borde lateral del mismo.
+ - el robot contrincante, por sí mismo, toca el área fuera del dohyo, incluyendo el borde lateral del mismo, estando el propio robot en movimiento en algún instante de los **5 segundos** posteriores a la salida del oponente.
+ - el robot contrincante reincida en no respetar el intervalo de **5 segundos** de espera al ponerse en funcionamiento, previo aviso de penalización por parte de los jueces.
+ - el robot contrincante no comience a moverse antes de los **5 segundos** posteriores a los **5 segundos** de espera.
 
 Un asalto se considerará empate en las siguientes circunstancias:
- - Los robots están enredados u orbitando entre sí sin ningún progreso aparente durante **5 segundos**. Si no está clara la intención de los robots, el juez puede prorrogar dicho plazo hasta un máximo de **30 segundos**.
- - Ambos robots se mueven sin intención de luchar, o se paran al mismo tiempo y permanecen detenidos durante **5 segundos** sin tocarse. Sin embargo, si un robot detiene su movimiento en primer lugar, transcurridos **5 segundos** será declarado como que no tiene intención de luchar. En este caso, el oponente ganará el asalto, incluso si éste último también se detiene. Si los dos robots se mueven y no está claro si se está progresando, el juez puede prorrogar el plazo hasta un máximo de **30 segundos**.
- - Los dos robots tocan el exterior del dohyo más o menos al mismo tiempo y no se puede determinar quién tocó en primer lugar.
- - Se ha vencido el tiempo máximo del asalto y ninguno de los dos robots ha salido del dohyo.
+ - los robots están enredados u orbitando entre sí sin ningún progreso aparente durante **5 segundos**. Si no está clara la intención de los robots, el juez puede prorrogar dicho plazo hasta un máximo de **30 segundos**.
+ - ambos robots se mueven sin intención de luchar, o se paran al mismo tiempo y permanecen detenidos durante **5 segundos** sin tocarse. Sin embargo, si un robot detiene su movimiento en primer lugar, transcurridos **5 segundos** será declarado como que no tiene intención de luchar. En este caso, el oponente ganará el asalto, incluso si éste último también se detiene. Si los dos robots se mueven y no está claro si se está progresando, el juez puede prorrogar el plazo hasta un máximo de **30 segundos**.
+ - los dos robots tocan el exterior del dohyo más o menos al mismo tiempo y no se puede determinar quién tocó en primer lugar.
+ - uno de los robots se sale por sí mismo del dohyo y el otro permanece parado durante los **5 segundos** posteriores.
+ - se ha vencido el tiempo máximo del asalto y ninguno de los dos robots ha salido del dohyo.
+
+Un asalto se considerará nulo cuando en los **5 segundos** posteriores a los **5 segundos** de espera:
+ - ninguno de los robots comience a moverse.
+ - los robots se salgan del dohyo sin tocarse.
+ - uno de los robots se salga del dohyo sin tocar al oponente y el otro no comience a moverse.
+
+Si el asalto resulta nulo, se dará un aviso a los competidores y se repetirá una sola vez. Si vuelve a ser nulo, se considerará empate por inactividad.
 
 Cuando se requiera la decisión de los jueces para determinar el ganador de una ronda se tendrán en cuenta las siguientes consideraciones:
  - Méritos técnicos en el movimiento y funcionamiento de un robot.
@@ -40,7 +49,6 @@ En esta modalidad se realizan combates entre cada pareja de robots, de tal maner
 
 Puntuación final del combate:
 * Los robots ganan **2 puntos** en la clasificación por cada combate ganado y **1 punto** por cada combate empatado. Los puntos ganados en cada combate son independientes de los asaltos ganados.
-* Un asalto se considerará nulo (no empate) en caso de que los dos robots no inicien la salida en los **10 segundos** posteriores a los **5 segundos** de espera. Se dará un aviso a los competidores y se repetirá una sola vez. Si vuelve a ser nulo, se considerará empate.
 * Para ganar los **2 puntos** correspondientes a la victoria del combate hay que ganar **2 de los 3 asaltos**. Si solamente se gana **1 asalto** y se empatan **2 asaltos** por inactividad, no se ganan puntos.
 * Para ganar **1 punto** cada robot en caso de empate en el combate debe haber al menos **2 asaltos** con actividad de alguno de los robots
 
